@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cross-Validated"
+title                    : "A. T. Boyd Consulting"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Katerina Bosko, PhD"
+name                     : "Austin T. Boyd"
 description              : "Blogging about my transition into Data Science + HOWTOs on Minimal Mistakes Jekyll personal website"
 port                     : 4000
 host                     : "0.0.0.0"
