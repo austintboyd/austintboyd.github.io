@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -32,7 +32,7 @@ masthead_title           : " " # overrides the website title displayed in the ma
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus #"disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : #"disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -98,12 +98,12 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "custom"
+  provider               : # google-gtag # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-147237792-1
-    anonymize_ip         : false # false (default)
-    optimize_id          : GTM-WV93XGT
-    allow_google_signals : false
+    tracking_id          : # UA-147237792-1
+    anonymize_ip         : # false # false (default)
+    optimize_id          : # GTM-WV93XGT
+    allow_google_signals : # false
 
 
 # Site Author
@@ -131,7 +131,7 @@ author:
       #url: "https://github.com/k-bosko/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/austin-boyd-484a14138"
+      url: "https://linkedin.com/in/austin-boyd-484a14138"
 
 # Site Footer
 # footer:
