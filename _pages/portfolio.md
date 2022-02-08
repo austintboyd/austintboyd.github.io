@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Portfolio and CV"
-permalink: /portfolioandcv/
+title: "Portfolio"
+permalink: /portfolio/
 header:
     overlay_image: /assets/images/header3.jpg
     caption: "Photo by [Tim Wallace](https://www.instagram.com/insolentprodigy/)"
