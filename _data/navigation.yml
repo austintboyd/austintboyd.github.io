@@ -12,7 +12,7 @@ main:
     url: /portfolio/  
   - title: "CV"
     url: /assets/docs/austintboydcv.pdf
-  - title: "Achievements"
-    url: /achievements/
+  - title: "Contact"
+    url: /contact/
   - title: "Archive"
     url: /year-archive/
