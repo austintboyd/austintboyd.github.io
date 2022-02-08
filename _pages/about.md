@@ -10,6 +10,8 @@ classes: wide
 date: February 5, 2022
 ---
 
+## About Austin
+
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hawaii.jpg" alt="">
 </figure> 
@@ -18,5 +20,9 @@ Austin Boyd, PhD, is the principal and founder of A. T. boyd Consulting. He foun
 
 Currently, Austin lives in the Tampa Bay area with his wife, Katy, and their two beagle mixes. His wife is a graduate student in the University of South Florida’s Doctor of Physical Therapy program and a Second Lieutenant in the Army Inactive Reserves.  
 
+##Awards and Service
+
+###Awards
 
 
+###Service
