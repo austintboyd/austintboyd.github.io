@@ -61,4 +61,4 @@ Rocconi, L. & **Boyd, A. T.** (2019, November). Examining the Relationship betwe
 
 **Boyd, A. T.** (2012, September) Knowing Your Leadership Styles. Workshop lead at JROTC Leadership Conference, September 25, Prince William County, VA.
 
-&ast; Accepted but not presented due to COVID-19 pandemic.
+&ast;Accepted but not presented due to COVID-19 pandemic.
