@@ -6,8 +6,8 @@ main:
     url: "/"
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Services"
+    url: /services/
   - title: "Resume"
     url: /assets/docs/resume-kbosko.pdf  
   - title: "Certificates"
