@@ -8,8 +8,8 @@ main:
     url: /about/
   - title: "Services"
     url: /services/
-  - title: "Resume"
-    url: /assets/docs/resume-kbosko.pdf  
+  - title: "Portfolio and CV"
+    url: /portfolioandcv/  
   - title: "Certificates"
     url: /certificates/
   - title: "Achievements"
