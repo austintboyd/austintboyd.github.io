@@ -11,7 +11,6 @@ date: February 5, 2022
 ---
 
 ## About Austin
-
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hawaii.jpg" alt="">
 </figure> 
