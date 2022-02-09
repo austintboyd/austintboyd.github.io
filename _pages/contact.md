@@ -11,8 +11,8 @@ classes: wide
 <div align="center">
 
 Feel free to send us an email or give us a call for more information on the services we offer or to set up a meeting to discuss how we can help you.<br>
-
-Email: <atboydconsulting@gmail.com><br>
-
+<br>
+Email: atboydconsulting@gmail.com<br>
+<br>
 Phone: (703) 915-6578 
 </div>
