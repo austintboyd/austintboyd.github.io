@@ -24,7 +24,7 @@ While attending the University of Tennessee, Austin was also involved in student
 <figure style="width: 35%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/biopic.jpg" alt="">
 </figure>
-Austin has published two articles, one on Item Response Theory and another on Social Network Analysis, and has presented at a number of national and international conferences. For copies of the articles and previous presentations, see his [portfolio](/portfolio/).
+Austin has published two articles, one on Item Response Theory and another on Social Network Analysis, and has presented at a number of national and international conferences. For copies of the articles and previous presentations, see the [portfolio](/portfolio/) tab.
 
 Currently, Austin lives in the Tampa Bay area with his wife, Katy, and their two beagle mixes. His wife is a graduate student in the University of South Florida’s Doctor of Physical Therapy program and a Second Lieutenant in the Army Inactive Reserves.  
 
