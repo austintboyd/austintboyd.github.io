@@ -20,7 +20,7 @@ In addition to offering a variety of services for both business and academic nee
 
 ## Academia
 
-We offer consulting support for a number of different areas in academia for professors, researchers, and students.
+We offer consulting support for a number of different areas in academia for professors, researchers, and students. Having been a graduate student, 
 
 ### Students
 
