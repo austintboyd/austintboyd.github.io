@@ -11,7 +11,7 @@ date: February 5, 2022
 ---
 
 ## About Austin
-<figure style="width: 100%" class="align-right">
+<figure style="width: 50%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/austinconference.JPG" alt="">
 </figure>
 
