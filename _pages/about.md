@@ -21,7 +21,7 @@ Prior to attending the University of Tennessee, he earned his BA in Psychology w
 
 While attending the University of Tennessee, Austin was also involved in student goverment, serving as the Graduate Student Senate's (GSS) Legislative Steering Chair and Senate President, during the 2019-2020 and 2020-2021 school years, respectively. During his time in the GSS he served on a number of university action committies, including the University Leadership Council, Title IX Action Collaborative, and the Commission for Disability, which he was a founding member of. 
 
-<figure style="width: 40%" class="align-left">
+<figure style="width: 35%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/biopic.jpg" alt="">
 </figure>
 Austin has published two articles, one on Item Response Theory and another on Social Network Analysis, and has presented at a number of national and international conferences. For copies of the articles and previous presentations, see his [portfolio](/portfolio/).
