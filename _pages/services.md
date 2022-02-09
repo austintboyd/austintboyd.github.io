@@ -12,9 +12,10 @@ date: February 8, 2022
 ---
 # Why choose A. T. Boyd Consulting?
 
-We offer a variety of services for both business and academic needs.
+In addition to offering a variety of services for both business and academic needs, we are able to provide 
 
 ## Businesses
+
 
 
 ## Academia
@@ -25,13 +26,13 @@ We offer consulting support for a number of different areas in academia for prof
 
 - Dissertation and Thesis Consulting
 - Statistics Tutoring
+- R Studio and SPSS Workshops
+- 
 
 ### Professors and Researchers
 
--
+- 
 
-The needs of individuals in academia, while still based in statistics, 
-The dissertation process can be a daunting task. From initial topic selection, to data collection, to analysis, to writing, it may seem like it will never be finished. 
 
 
 
