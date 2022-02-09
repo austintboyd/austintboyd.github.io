@@ -23,8 +23,8 @@ We offer consulting support for a number of different areas in academia for prof
 
 ### Students
 
--Dissertation and Thesis Consulting
--
+- Dissertation and Thesis Consulting
+- Statistics Tutoring
 
 ### Professors and Researchers
 
