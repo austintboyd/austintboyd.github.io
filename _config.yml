@@ -133,7 +133,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/austintboyd/"
     - label: "ORCID"
-      icon: "fa-solid fa-book"
+      icon: "fas fa-fw fa-book"
       url: "https://orcid.org/0000-0002-8673-566X"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
