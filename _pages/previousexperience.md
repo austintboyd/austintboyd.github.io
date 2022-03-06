@@ -26,8 +26,10 @@ date: March 6, 2022
 
 ## Graduate Teaching Assistant (August 2019 - May 2021) 
 *University of Tennessee* \| Knoxville, Tennessee
--	Founded a statistics and evaluation consulting company named Boyd and Associates International, LLC. 
--	Secured a 10 month contract with Motorola Solutions to assist with data analysis and visualizations of their contracts in the federal government.
+-	Assisted in teaching PhD students in a number of different program evaluation and statistics courses both in person, synchronously online, and asynchronously online
+-	Designed in class activities and helped lead instruction during in person meetings 
+-	Designed assignments and quizzes to teach statistical analysis, SPSS, and R to graduate students
+-	Provided feedback and assistance to students as they designed and then conducted a program evaluation from start to finish for an external client of their choice
     -	Approximately 6 hours per week. (course credit)
 
 ## Media Editing Consultant (August 2019 - November 2019) 
@@ -54,7 +56,7 @@ date: March 6, 2022
 -	Developed new test items for different entry level healthcare aptitude examinations
     -	Approximately 5 hours per week. (paid)
 
-## Program Evaluation Intern (May 2017 - Diecember 2018) 
+## Program Evaluation Intern (May 2017 - December 2018) 
 *Prince William County Public Schools* \| Prince William, Virginia
 -	Performed data analysis and visualization on survey results of several county programs including the gifted education, strings program, annual Equity and Excellence in Education (EEE) conference, Title I school’s parent evaluations, and the newly implemented Professional Learning Community (PLC) Survey
 	-	Approximately 40 hours per week during the summers. (paid)
@@ -65,9 +67,25 @@ date: March 6, 2022
 -	Coded and analyzed survey results, including statistical testing, table and graphical representations of the data and results, and a written summary of the findings
     -	Approximately 3 hours per week. (paid)
 
-## Job Title (Date) 
-*Self Employed* \| Woodbridge, Virginia
--	Founded a statistics and evaluation consulting company named Boyd and Associates International, LLC. 
--	Secured a 10 month contract with Motorola Solutions to assist with data analysis and visualizations of their contracts in the federal government.
-    -	Approximately 10 hours per week. (paid)
+## Undergraduate Research Assistant (September 2016 - May 2018) 
+*University of Virginia* \| Charlottesville, Virginia
+-	Developed and presented a paper at the International Objective Measurement Workshop Conference 
+-	Analyzed data using Item Response Theory techniques and Rasch Modeling
+-	Supported undergraduate participants with the completion of psychological studies 
+-	Secured, recorded, and coded data for analysis using excel and SPSS
+-	Participated in weekly staff meetings to disseminate data and identify future objectives and goals
+    -	Approximately 10 hours per week. (course credit)
 
+## Statistics Tutor (February 2017 - May 2018)
+*Self Employed* \| Charlottesville, Virginia
+-	Addressed areas of weakness in students' knowledge of course content at review sessions 
+-	Promoted students’ development of effective study strategies to aid in long-term comprehension
+-	Conducted discussions with students after exams to discuss future strategies to improve studying
+    -	Approximately 2 hours per week. (paid)
+
+## Substitute Teacher (December 2015 - January 2020)
+*Prince William County Public Schools* \| Prince William, Virginia
+-	Taught autistic/special education children utilizing Applied Behavioral Analysis Therapy in the classroom 
+-	Developed and executed lesson plans for K-3 autism students 
+-	Covered academic classes K-5
+-	Provided academic support to struggling readers and second language learners
