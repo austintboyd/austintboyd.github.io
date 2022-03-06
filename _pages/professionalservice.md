@@ -17,7 +17,7 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
 
 **President** (May 2020 - May 2021)
     
-    *Served as the Graduate Student Senate President for the graduate and professional student body*
+   *Served as the Graduate Student Senate President for the graduate and professional student body*
     
     Committee Membership
     -	Commission for Disability
@@ -34,10 +34,10 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
     
 **Legislative Steering Chair** (August 2019 - May 2020)
     
-    *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
+   *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 
 ## Scholarly Service
 **Conference Submission Reviewer** (March 2020)
 
-*Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
+   *Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
