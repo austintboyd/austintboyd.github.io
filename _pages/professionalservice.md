@@ -21,7 +21,9 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
     
 Committee Membership
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Commission for Disability
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- Commission for Disability
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Global Vision Steering Committee 
 
