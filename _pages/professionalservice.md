@@ -19,18 +19,18 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Served as the Graduate Student Senate President for the graduate and professional student body*
     
-    Committee Membership
-    -	Commission for Disability
-    -	Global Vision Steering Committee 
-    -	Graduate Council
-    -	Graduate Student Termination Appeals Hearing Committee
-    -	Graduate and Professional Student Professional Development Committee
-    -	Programming Student Advisory Board
-    -	Orientation Planning Committee
-    -	Title IX Action Collaborative
-    -	Title IX New Regulations Implementation Team
-    -	University Leadership Council
-    -	UTK Big Orange Pantry
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee Membership
+   -	Commission for Disability
+   -	Global Vision Steering Committee 
+   -	Graduate Council
+   -	Graduate Student Termination Appeals Hearing Committee
+   -	Graduate and Professional Student Professional Development Committee
+   -	Programming Student Advisory Board
+   -	Orientation Planning Committee
+   -	Title IX Action Collaborative
+   -	Title IX New Regulations Implementation Team
+   -	University Leadership Council
+   -	UTK Big Orange Pantry
     
 **Legislative Steering Chair** (August 2019 - May 2020)
     
