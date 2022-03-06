@@ -11,8 +11,6 @@ date: March 6, 2022
 
 ---
 
-Blank
-
 ## Presentations
 
 Narvaiz, S. & **Boyd, A. T.** (2021, October) Welcoming New Graduate Students During COVID: Assessing Virtual Orientations. Live presentation at the 2021 Assessment Institute Virtual Conference, October 24-27, Online.
