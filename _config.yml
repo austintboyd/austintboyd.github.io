@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A. T. Boyd Consulting"
+title                    : "Austin T. Boyd"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Austin T. Boyd"
-description              : "A. T. Boyd Consulting"
+description              : "Austin T. Boyd"
 port                     : 4000
 host                     : "0.0.0.0"
-url                      : "https://atboydconsulting.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://austintboyd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #/assets/images/joel-filipe-thumb-800.jpg path of fallback teaser image, e.g. "/assets/images/500x300.png"
