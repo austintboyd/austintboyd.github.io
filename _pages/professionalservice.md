@@ -20,19 +20,20 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Served as the Graduate Student Senate President for the graduate and professional student body*
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee Membership
-   -	Commission for Disability
-   -	Global Vision Steering Committee 
-   -	Graduate Council
-   -	Graduate Student Termination Appeals Hearing Committee
-   -	Graduate and Professional Student Professional Development Committee
-   -	Programming Student Advisory Board
-   -	Orientation Planning Committee
-   -	Title IX Action Collaborative
-   -	Title IX New Regulations Implementation Team
-   -	University Leadership Council
-   -	UTK Big Orange Pantry
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Commission for Disability
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Global Vision Steering Committee 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Graduate Council
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Graduate Student Termination Appeals Hearing Committee
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Graduate and Professional Student Professional Development Committee
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Programming Student Advisory Board
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Orientation Planning Committee
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Title IX Action Collaborative
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	Title IX New Regulations Implementation Team
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	University Leadership Council
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -	UTK Big Orange Pantry
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Legislative Steering Chair** (August 2019 - May 2020)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 
