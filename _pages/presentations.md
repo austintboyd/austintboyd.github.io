@@ -11,7 +11,7 @@ date: March 6, 2022
 
 ---
 
-## Presentations
+## Professional Presentations
 
 Narvaiz, S. & **Boyd, A. T.** (2021, October) Welcoming New Graduate Students During COVID: Assessing Virtual Orientations. Live presentation at the 2021 Assessment Institute Virtual Conference, October 24-27, Online.
 
@@ -48,3 +48,10 @@ Rocconi, L. & **Boyd, A. T.** (2019, November). Examining the Relationship betwe
 **Boyd, A. T.** (2012, September) Knowing Your Leadership Styles. Workshop lead at JROTC Leadership Conference, September 25, Prince William County, VA.
 
 \*Accepted but not presented due to COVID-19 pandemic.
+
+
+## Client Presentations
+
+Boyd, A. T. (2020, February) Logic Model and measurement consultation. Presentation for the clients of the Evaluation of the Human-Animal Bond in Tennessee’s RUFF Reading Program.
+
+Butler, B. M. & Boyd, A. T. (2019, February) Logic Model and measurement consultation. Presentation for the clients of the Evaluation for Arrowmont School of Arts and Crafts MACP Grant.
