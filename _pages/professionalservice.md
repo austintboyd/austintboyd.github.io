@@ -10,29 +10,27 @@ classes: wide
 date: February 8, 2022
 
 ---
-# Why choose A. T. Boyd Consulting?
 
-In addition to offering a variety of services for both business and academic needs, we are able to provide 
-
-## Businesses
-
-
-
-## Academia
-
-We offer consulting support for a number of different areas in academia for professors, researchers, and students. Having been a graduate student, 
-
-### Students
-
-- Dissertation and Thesis Consulting
-- Statistics Tutoring
-- R Studio and SPSS Workshops
-- 
-
-### Professors and Researchers
-
-- 
+## University Service
+University of Tennessee Graduate Student Senate (August 2019 - May 2021)
+    **President** (May 2020 - May 2021)
+    *Served as the Graduate Student Senate President for the graduate and professional student body*
+    Committee Membership
+    -	Commission for Disability
+    -	Global Vision Steering Committee 
+    -	Graduate Council
+    -	Graduate Student Termination Appeals Hearing Committee
+    -	Graduate and Professional Student Professional Development Committee
+    -	Programming Student Advisory Board
+    -	Orientation Planning Committee
+    -	Title IX Action Collaborative
+    -	Title IX New Regulations Implementation Team
+    -	University Leadership Council
+    -	UTK Big Orange Pantry
+    **Legislative Steering Chair** (August 2019 - May 2020)
+    *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 
-
-
+## Scholarly Service
+**Conference Submission Reviewer** (March 2020)
+*Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
