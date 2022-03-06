@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /contact/
+permalink: /grantsandawards/
 title: Contact Information
 author_profile: true
 header:
