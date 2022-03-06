@@ -12,9 +12,13 @@ date: February 8, 2022
 ---
 
 ## University Service
+
 University of Tennessee Graduate Student Senate (August 2019 - May 2021)
-    **President** (May 2020 - May 2021)
+
+**President** (May 2020 - May 2021)
+    
     *Served as the Graduate Student Senate President for the graduate and professional student body*
+    
     Committee Membership
     -	Commission for Disability
     -	Global Vision Steering Committee 
@@ -27,7 +31,9 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
     -	Title IX New Regulations Implementation Team
     -	University Leadership Council
     -	UTK Big Orange Pantry
-    **Legislative Steering Chair** (August 2019 - May 2020)
+    
+**Legislative Steering Chair** (August 2019 - May 2020)
+    
     *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 
