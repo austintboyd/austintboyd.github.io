@@ -10,8 +10,7 @@ classes: wide
 date: March 6, 2022
 ---
 
-##Job Title (Date)
-
+## Job Title (Date) 
 *Location*
 * Tasks
 * Tasks
