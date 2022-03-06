@@ -13,7 +13,7 @@ date: February 8, 2022
 
 ## University Service
 
-University of Tennessee Graduate Student Senate (August 2019 - May 2021)
+### University of Tennessee Graduate Student Senate (August 2019 - May 2021)
 
 **President** (May 2020 - May 2021)
     
@@ -37,7 +37,7 @@ Committee Membership as President
 
 *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
-EPC Department Student Representative
+### EPC Department Student Representative (August 2019 - May 2021)
 
 *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
