@@ -11,11 +11,13 @@ classes: wide
 date: March 6, 2022
 
 ---
-<div align="center">
 
-Feel free to send us an email or give us a call for more information on the services we offer or to set up a meeting to discuss how we can help you.<br>
-<br>
-<h3>Email: atboydconsulting@gmail.com<br>
-<br>
-Phone: (703) 915-6578 
-</h3></div>
+## Grants
+**Boyd, A. T.** (Co-PI) & Rocconi, L. (Co-PI) University of Tennessee Scholarly Activity and Research Incentive Funds: Summer Graduate Research Assistantship Fund. Developing easy-to-use and accessible statistical tools for applied researchers. University of Tennessee Office of Research & Engagement. April 2020. ($3,600)
+**Boyd, A. T.** (Co-PI) & Schmidt, K. M. (Co-PI) University of Virginia Small Research and Travel Grant. You Know What They Say About When You Assume: Assessing the Robustness of Invariant Comparisons. University of Virginia College of Arts & Sciences. May 2018. ($750)
+
+## Awards
+
+* **2020 Graduate Student Leadership & Service Excellence Award** from the University of Tennessee Educational Psychology and Counseling Department ($500)
+* **First Place** in the 2019 A-mu-sing Competition held by the Consortium for the Advancement of Undergraduate Statistics Education ($100)
+* **Four Year Graduate School Fellowship** at the University of Tennessee - Knoxville ($16,000)
