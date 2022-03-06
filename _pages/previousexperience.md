@@ -30,6 +30,11 @@ date: March 6, 2022
 -	Secured a 10 month contract with Motorola Solutions to assist with data analysis and visualizations of their contracts in the federal government.
     -	Approximately 6 hours per week. (course credit)
 
+## Media Editing Consultant (August 2019 - November 2019) 
+*Suburban Virginia Republican Coalition* \| Alexandria, Virginia
+-	Created 60 second video excerpts from the organizations “Think Suburbia” podcasts to be used in social media marketing and advertising
+    -	Approximately 3 hours per week. (paid)
+
 ## Graduate Research Assistant (August 2018 - Present) 
 *University of Tennessee* \| Knoxville, Tennessee and Remote
 -	Performed literature review and synthesized material to co-author journal article manuscript on reformatting data for social network analysis
@@ -44,13 +49,10 @@ date: March 6, 2022
 -	Designed assignments and code scripts to teach R Studio and statistical analyses to psychology majors
     -	Approximately 6 hours per week. (paid and course credit)
 
-## Undergraduate Research Assistant (September 2016 - May 2018) 
-*University of Virginia* \| Charlottesville, Virginia
--	Developed and presented a paper at the International Objective Measurement Workshop Conference 
--	Analyzed data using Item Response Theory techniques and Rasch Modeling
--	
--	Participated in weekly staff meetings to disseminate data and identify future objectives and goals
-    -	Approximately 10 hours per week. (course credit)
+## Test Item Writer (September 2017 - July 2019) 
+*Psychological Services Bureau* \| Charlotesville, Virginia and Remote
+-	Developed new test items for different entry level healthcare aptitude examinations
+    -	Approximately 5 hours per week. (paid)
 
 ## Program Evaluation Intern (May 2017 - Diecember 2018) 
 *Prince William County Public Schools* \| Prince William, Virginia
@@ -62,18 +64,6 @@ date: March 6, 2022
 -	Provided statistical consultations for doctoral candidates 
 -	Coded and analyzed survey results, including statistical testing, table and graphical representations of the data and results, and a written summary of the findings
     -	Approximately 3 hours per week. (paid)
-
-## Job Title (Date) 
-*Self Employed* \| Woodbridge, Virginia
--	Founded a statistics and evaluation consulting company named Boyd and Associates International, LLC. 
--	Secured a 10 month contract with Motorola Solutions to assist with data analysis and visualizations of their contracts in the federal government.
-    -	Approximately 10 hours per week. (paid)
-
-## Job Title (Date) 
-*Self Employed* \| Woodbridge, Virginia
--	Founded a statistics and evaluation consulting company named Boyd and Associates International, LLC. 
--	Secured a 10 month contract with Motorola Solutions to assist with data analysis and visualizations of their contracts in the federal government.
-    -	Approximately 10 hours per week. (paid)
 
 ## Job Title (Date) 
 *Self Employed* \| Woodbridge, Virginia
