@@ -19,7 +19,7 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
     
 *Served as the Graduate Student Senate President for the graduate and professional student body*
     
-Committee Membership
+Committee Membership as President
 
 - Commission for Disability
 - Global Vision Steering Committee 
@@ -37,6 +37,9 @@ Committee Membership
 
 *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
+EPC Department Student Representative
+
+*Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 ## Scholarly Service
 **Conference Submission Reviewer** (March 2020)
