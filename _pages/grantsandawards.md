@@ -2,7 +2,7 @@
 layout: single
 title: "Grants and Awards"
 permalink: /grantsandawards/
-title: Contact Information
+title: Grants and Awards
 author_profile: true
 header:
     overlay_image: /assets/images/header3.jpg
