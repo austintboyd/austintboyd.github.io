@@ -19,7 +19,7 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
     
 *Served as the Graduate Student Senate President for the graduate and professional student body*
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee Membership
+Committee Membership
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Commission for Disability
 
