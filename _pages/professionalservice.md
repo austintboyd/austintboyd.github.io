@@ -15,9 +15,9 @@ date: February 8, 2022
 
 University of Tennessee Graduate Student Senate (August 2019 - May 2021)
 
-**President** (May 2020 - May 2021)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**President** (May 2020 - May 2021)
     
-   *Served as the Graduate Student Senate President for the graduate and professional student body*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Served as the Graduate Student Senate President for the graduate and professional student body*
     
     Committee Membership
     -	Commission for Disability
