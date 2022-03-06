@@ -132,6 +132,12 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/austintboyd/"
+    - label: "ORCID"
+      icon: "ai ai-orcid-square ai-fw"
+      url: "https://orcid.org/0000-0002-8673-566X"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.linkedin.com/in/austintboyd/"
 
 # Site Footer
 # footer:
