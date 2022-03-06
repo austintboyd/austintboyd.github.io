@@ -1,11 +1,12 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
-layout: posts
+layout: single
+permalink: /previousexperience/
+title: Previous Experience
 author_profile: true
 header:
     overlay_image: /assets/images/header3.jpg
     caption: "Photo by [Tim Wallace](https://www.instagram.com/insolentprodigy/)"
+classes: wide
+date: March 6, 2022
 ---
 
-### Posts by <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i>  Tags [here](/tags)
