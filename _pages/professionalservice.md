@@ -33,4 +33,5 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
 
 ## Scholarly Service
 **Conference Submission Reviewer** (March 2020)
+
 *Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
