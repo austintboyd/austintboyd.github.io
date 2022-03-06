@@ -42,6 +42,6 @@ Committee Membership as President
 *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 ## Scholarly Service
-**Conference Submission Reviewer** (March 2020)
+### Conference Submission Reviewer (March 2020)
 
    *Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
