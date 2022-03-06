@@ -32,9 +32,8 @@ University of Tennessee Graduate Student Senate (August 2019 - May 2021)
    -	University Leadership Council
    -	UTK Big Orange Pantry
     
-**Legislative Steering Chair** (August 2019 - May 2020)
-    
-   *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Legislative Steering Chair** (August 2019 - May 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
 
 ## Scholarly Service
