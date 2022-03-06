@@ -14,6 +14,7 @@ date: March 6, 2022
 
 ## Grants
 **Boyd, A. T.** (Co-PI) & Rocconi, L. (Co-PI) University of Tennessee Scholarly Activity and Research Incentive Funds: Summer Graduate Research Assistantship Fund. Developing easy-to-use and accessible statistical tools for applied researchers. University of Tennessee Office of Research & Engagement. April 2020. ($3,600)
+
 **Boyd, A. T.** (Co-PI) & Schmidt, K. M. (Co-PI) University of Virginia Small Research and Travel Grant. You Know What They Say About When You Assume: Assessing the Robustness of Invariant Comparisons. University of Virginia College of Arts & Sciences. May 2018. ($750)
 
 ## Awards
