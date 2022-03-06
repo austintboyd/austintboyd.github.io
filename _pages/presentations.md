@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Portfolio"
-permalink: /portfolio/
+title: "Presentations"
+permalink: /presentations/
 header:
     overlay_image: /assets/images/header3.jpg
     caption: "Photo by [Tim Wallace](https://www.instagram.com/insolentprodigy/)"
 author_profile: true
 classes: wide
-date: February 8, 2022
+date: March 6, 2022
 
 ---
 
