@@ -52,6 +52,6 @@ Rocconi, L. & **Boyd, A. T.** (2019, November). Examining the Relationship betwe
 
 ## Client Presentations
 
-Boyd, A. T. (2020, February) Logic Model and measurement consultation. Presentation for the clients of the Evaluation of the Human-Animal Bond in Tennessee’s RUFF Reading Program.
+**Boyd, A. T.** (2020, February) Logic Model and measurement consultation. Presentation for the clients of the Evaluation of the Human-Animal Bond in Tennessee’s RUFF Reading Program.
 
-Butler, B. M. & Boyd, A. T. (2019, February) Logic Model and measurement consultation. Presentation for the clients of the Evaluation for Arrowmont School of Arts and Crafts MACP Grant.
+Butler, B. M. & **Boyd, A. T.** (2019, February) Logic Model and measurement consultation. Presentation for the clients of the Evaluation for Arrowmont School of Arts and Crafts MACP Grant.
