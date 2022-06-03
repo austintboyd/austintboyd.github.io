@@ -11,7 +11,7 @@ date: March 6, 2022
 ---
 
 ## Founder and Statistics and Evaluation Consultant (September 2020 - July 2021) 
-*Self Employed* \| Woodbridge, Virginia and Remote
+*Self Employed* \| Remote
 -	Founded a statistics and evaluation consulting company named Boyd and Associates International, LLC. 
 -	Secured a 10 month contract with Motorola Solutions to assist with data analysis and visualizations of their contracts in the federal government.
     -	Approximately 10 hours per week. (paid)
@@ -33,7 +33,7 @@ date: March 6, 2022
     -	Approximately 6 hours per week. (course credit)
 
 ## Media Editing Consultant (August 2019 - November 2019) 
-*Suburban Virginia Republican Coalition* \| Alexandria, Virginia
+*Suburban Virginia Republican Coalition* \| Remote
 -	Created 60 second video excerpts from the organizations “Think Suburbia” podcasts to be used in social media marketing and advertising
     -	Approximately 3 hours per week. (paid)
 
@@ -52,7 +52,7 @@ date: March 6, 2022
     -	Approximately 6 hours per week. (paid and course credit)
 
 ## Test Item Writer (September 2017 - July 2019) 
-*Psychological Services Bureau* \| Charlotesville, Virginia and Remote
+*Psychological Services Bureau* \| Remote
 -	Developed new test items for different entry level healthcare aptitude examinations
     -	Approximately 5 hours per week. (paid)
 
