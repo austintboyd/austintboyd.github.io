@@ -12,6 +12,7 @@ date: March 6, 2022
 ---
 
 ## Professional Presentations
+**Boyd, A. T.** (2022, August) Assessing Robustness of Invariant Comparisons in Binary and Polytomous Rasch Models. Live symposium presentation at the 2022 American Psychological Association Conference, August 4-6, Minneapolis, MN.
 
 Narvaiz, S. & **Boyd, A. T.** (2021, October) Welcoming New Graduate Students During COVID: Assessing Virtual Orientations. Live presentation at the 2021 Assessment Institute Virtual Conference, October 24-27, Online.
 
@@ -44,6 +45,10 @@ Rocconi, L. & **Boyd, A. T.** (2019, November). Examining the Relationship betwe
 **Boyd, A. T.** & Butler, B. M. (2019, October). Paving the way to an effective resume: Standardizing the resume and CV formats. Poster presented at the annual Society for the Teaching of Psychology International Twitter Poster Conference, Online.
 
 **Boyd, A. T.**, Schmidt, K. M., & Bergeman, C. S. (2018, April). You know what they say about when you assume: Testing the robustness of invariant comparisons. Paper presented at the International Objective Measurement Workshop (IOMW) Conference, April 10-11, New York, New York. 
+
+**Boyd, A. T.** (2018, April). Data Visualization in R Studio. Lecture presented in PSYC 3006: Research Methods and Data Analysis II Course, Charlottesville, VA.
+
+**Boyd, A. T.** (2017, December). Conducting a 2x2 Factorial ANOVA in R Studio. Lecture presented in PSYC 3006: Research Methods and Data Analysis II Course, Charlottesville, VA.
 
 **Boyd, A. T.** (2012, September) Knowing Your Leadership Styles. Workshop lead at JROTC Leadership Conference, September 25, Prince William County, VA.
 
