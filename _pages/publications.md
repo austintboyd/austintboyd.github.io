@@ -12,6 +12,8 @@ date: March 6, 2022
 
 ## Peer Reviewed Articles
 
+**Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation of the Parasocial Relationship in Social Media Survey. The Journal of Social Media in Society. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
+
 Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Journal of Legal Education.* Available online: <https://link.springer.com/article/10.1007/s11162-022-09682-y>
 
 **Boyd, A. T.**, & Rocconi, L. M. (2021). Formatting data for one and two mode undirected social network analysis. *Practical Assessment, Research & Evaluation, 26*(24). Available online: <https://scholarworks.umass.edu/pare/vol26/iss1/24/>
@@ -19,6 +21,8 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 **Boyd, A. T.**, Schmidt, K. M., & Bergeman, C. S. (2020). You know what they say about when you assume: Testing the robustness of invariant comparisons. *Journal of Applied Measurement, 21*(2), 190-209.
 
 ## Non-Peer Reviewed Articles
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2022). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company. Available online: <https://edcuration.com/resource/product/8/Validity_of_the_IRLA.pdf>
 
 Rocconi, L. & **Boyd, A. T.** (2020). Examining the Relationship between Law School Rank and Student Engagement. *AccessLex Resource Collections.* Available online: <https://arc.accesslex.org/grantee/67/>
 
