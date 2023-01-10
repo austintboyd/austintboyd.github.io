@@ -10,6 +10,13 @@ classes: wide
 date: March 6, 2022
 ---
 
+## Research Assistant (May 2022 - Present) 
+*American Reading Company* \| Remote
+-	Worked fully remote as the research assistant for the vice president of research and evaluation.
+-	Performed data cleaning and statistical analysis on student reading scores for validity, efficacy, and linking studies.
+-	-Co-authored a non-peer reviewed study on the validity of the Independent Reading Level Assessment (IRLA), a nationally used formative reading assessment for K-12 students.
+    -	Full time (40 hours per week).
+
 ## Founder and Statistics and Evaluation Consultant (September 2020 - July 2021) 
 *Self Employed* \| Remote
 -	Founded a statistics and evaluation consulting company named Boyd and Associates International, LLC. 
@@ -37,7 +44,7 @@ date: March 6, 2022
 -	Created 60 second video excerpts from the organizations “Think Suburbia” podcasts to be used in social media marketing and advertising
     -	Approximately 3 hours per week. (paid)
 
-## Graduate Research Assistant (August 2018 - Present) 
+## Graduate Research Assistant (August 2018 - July 2022) 
 *University of Tennessee* \| Knoxville, Tennessee and Remote
 -	Performed literature review and synthesized material to co-author journal article manuscript on reformatting data for social network analysis
 -	Worked as a co-evaluator and consultant to the Arrowmont School of Arts and Crafts, giving them a logic model and measurement workshop, as well as a written technical report of suggestions for evaluation questions, methods, and measurements for evaluating their MACP grant
