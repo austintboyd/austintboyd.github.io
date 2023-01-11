@@ -12,7 +12,7 @@ date: March 6, 2022
 
 ## Peer Reviewed Articles
 
-**Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation of the Parasocial Relationship in Social Media Survey. The Journal of Social Media in Society. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
+**Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation of the Parasocial Relationship in Social Media Survey. *The Journal of Social Media in Society, 11*(2), 192-208. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
 
 Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Journal of Legal Education.* Available online: <https://link.springer.com/article/10.1007/s11162-022-09682-y>
 
