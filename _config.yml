@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Austin T. Boyd, PhD"
   avatar           : "/assets/images/austinboyd.png"
-  bio              : "Research Assistant, American Reading Company"
+  bio              : "Research Assistant," \n "American Reading Company" \n "Adjunct Professor," \n "University of Tennessee"
   location         : "Tampa, FL"
   email            :
   links:
