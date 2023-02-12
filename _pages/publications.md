@@ -24,6 +24,8 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 Famularo, L., Jackson, A., & **Boyd, A. T.** (2022). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company. Available online: <https://edcuration.com/resource/product/8/Validity_of_the_IRLA.pdf>
 
+**Boyd, A. T.** (2022). The Parasocial Relationships in Social Media Survey. PhD dissertation, University of Tennessee, 2022. Available online: https://trace.tennessee.edu/utk_graddiss/7194/
+
 Rocconi, L. & **Boyd, A. T.** (2020). Examining the Relationship between Law School Rank and Student Engagement. *AccessLex Resource Collections.* Available online: <https://arc.accesslex.org/grantee/67/>
 
 ## Evaluation and Technical Reports
