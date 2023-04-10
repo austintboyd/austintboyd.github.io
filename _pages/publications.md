@@ -22,7 +22,9 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 ## Non-Peer Reviewed Articles
 
-Famularo, L., Jackson, A., & **Boyd, A. T.** (2022). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 2. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2022). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company.
 
 **Boyd, A. T.** (2022). The Parasocial Relationships in Social Media Survey. PhD dissertation, University of Tennessee, 2022. Available online: <https://trace.tennessee.edu/utk_graddiss/7194/>
 
