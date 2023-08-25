@@ -10,11 +10,18 @@ classes: wide
 date: March 6, 2022
 ---
 
+## Adjunct Professor (August 2023 - Present) 
+*University of Tennessee* \| Remote
+-	Worked fully remote as the lead instructor of a graduate level course in applied statistics.
+-	Created course materials, assignments, and learning objectives for a completely virtual/online, asynchronous course.
+-	Facilitated student discussions via asynchronous discussion boards and virtual office hours via zoom. 
+    -	Part time (5 hours per week).
+
 ## Research Assistant (May 2022 - Present) 
 *American Reading Company* \| Remote
 -	Worked fully remote as the research assistant for the vice president of research and evaluation.
 -	Performed data cleaning and statistical analysis on student reading scores for validity, efficacy, and linking studies.
--	-Co-authored a non-peer reviewed study on the validity of the Independent Reading Level Assessment (IRLA), a nationally used formative reading assessment for K-12 students.
+-	Co-authored a non-peer reviewed study on the validity of the Independent Reading Level Assessment (IRLA), a nationally used formative reading assessment for K-12 students.
     -	Full time (40 hours per week).
 
 ## Founder and Statistics and Evaluation Consultant (September 2020 - July 2021) 
