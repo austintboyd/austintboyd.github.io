@@ -81,19 +81,19 @@ date: March 6, 2022
 -	Provided statistical consultations for doctoral candidates, including cleaning and analyzing survey results, statistical testing, data visualizations, and a written summary of the findings
     -	Par time (Approximately 3 hours per week)
 
-## Undergraduate Research Assistant (September 2016 - May 2018) 
-*University of Virginia* \| Charlottesville, Virginia
--	Served as lead author and presenter for peer reviewed IRT paper at the International Objective Measurement Workshop Conference
--	Supported undergraduate participants with the completion of psychological studies
--	Participated in weekly staff meetings to disseminate data and identify future objectives and goals
-    -	Par time (Approximately 6 to 10 hours per week)
-
 ## Statistics Tutor (February 2017 - May 2018)
 *Self Employed* \| Charlottesville, Virginia
 -	Addressed areas of weakness in students' knowledge of course content at review sessions
 -	Promoted students’ development of effective study strategies to aid in long-term comprehension
 -	Conducted discussions with students after exams to discuss future strategies to improve studying
     -	Part time (Approximately 2 hours per week)
+
+## Undergraduate Research Assistant (September 2016 - May 2018) 
+*University of Virginia* \| Charlottesville, Virginia
+-	Served as lead author and presenter for peer reviewed IRT paper at the International Objective Measurement Workshop Conference
+-	Supported undergraduate participants with the completion of psychological studies
+-	Participated in weekly staff meetings to disseminate data and identify future objectives and goals
+    -	Par time (Approximately 6 to 10 hours per week)
 
 ## Substitute Teacher (December 2015 - January 2020)
 *Prince William County Public Schools* \| Prince William, Virginia
