@@ -12,6 +12,8 @@ date: March 6, 2022
 
 ## Peer Reviewed Articles
 
+**Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(under review). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE*.
+
 **Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation of the Parasocial Relationship in Social Media Survey. *The Journal of Social Media in Society, 11*(2), 192-208. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
 
 Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Research in Higher Education.* Available online: <https://link.springer.com/article/10.1007/s11162-022-09682-y>
@@ -22,9 +24,15 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 ## Non-Peer Reviewed Articles
 
-Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 2. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 3. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
 
-Famularo, L., Jackson, A., & **Boyd, A. T.** (2022). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company.
+Famularo, L. & **Boyd, A. T.** (2023). Linking the Independent Reading Level Assessment (IRLA) to the Delaware Smarter Balanced Assessment System (SBA) English Language Arts Test. Blue Bell, PA: American Reading Company.
+
+Famularo, L. & **Boyd, A. T.** (2023). Linking the Independent Reading Level Assessment (IRLA) to the Rhode Island Comprehensive Assessment System (RICAS) English Language Arts Test. Blue Bell, PA: American Reading Company.
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 2. Blue Bell, PA: American Reading Company.
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company.
 
 **Boyd, A. T.** (2022). The Parasocial Relationships in Social Media Survey. PhD dissertation, University of Tennessee, 2022. Available online: <https://trace.tennessee.edu/utk_graddiss/7194/>
 
