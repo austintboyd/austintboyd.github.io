@@ -17,7 +17,7 @@ date: March 6, 2022
 -	Facilitated student discussions via asynchronous discussion boards and live virtual office hours. 
     -	Part time (Approximately 5 hours per week)
 
-## Research Assistant (May 2022 - Present) 
+## Researcher (May 2022 - Present) 
 *American Reading Company* \| Remote
 -	Worked fully remote as the research assistant for the Vice President of Research and Evaluation.
 -	Aided in obtaining the companies first data sharing agreements with 28 partner districts in 17 states across the United States
