@@ -15,6 +15,7 @@ date: March 6, 2022
 **1.	Can anyone use the PRISM Survey?**
 
 Absolutely! Just make sure you are properly citing the survey in any presentations, publications, or other manuscripts that are created as a result of the survey:
+
 Boyd, A. T., Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation of the Parasocial Relationship in Social Media Survey. *The Journal of Social Media in Society, 11*(2), 192-208.
 
 **2.	Where can I get a copy of the PRISM survey?**
