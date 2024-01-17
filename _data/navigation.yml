@@ -14,5 +14,7 @@ main:
     url: /grantsandawards/  
   - title: "Professional Service"
     url: /professionalservice/
+  - title: "PRISM Survey"
+    url: /prismsurvey/
   - title: "CV"
     url: /assets/docs/AustinBoydCV.pdf
