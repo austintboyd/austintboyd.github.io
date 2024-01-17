@@ -19,7 +19,7 @@ Boyd, A. T., Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation o
 
 **2.	Where can I get a copy of the PRISM survey?**
 
-The PRISIM survey is published in <a href="https://www.thejsms.org/index.php/JSMS/article/view/1085" rel="nofollow">The Journal of Social Media in Society</a> which includes all of the items and the scale for the survey. Additionally, you can download a copy of the survey by clicking HERE.
+The PRISIM survey is published in <a href="https://www.thejsms.org/index.php/JSMS/article/view/1085" rel="nofollow">The Journal of Social Media in Society</a> which includes all of the items and the scale for the survey. Additionally, you can download a copy of the survey by clicking <a href="/assets/docs/Survey Shareable.docx" rel="nofollow">HERE</a>.
 
 **3.	How is the PRISIM survey scored?**
 
