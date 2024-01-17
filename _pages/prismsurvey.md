@@ -24,7 +24,15 @@ The PRISIM survey is published in <a href="https://www.thejsms.org/index.php/JSM
 
 **3.	How is the PRISIM survey scored?**
 
-Responses to each item of the scale receive a score from 0 to 5 (NA = 0, Strongly Disagree = 1, Disagree = 2, Neither Agree Nor Disagree = 3, Agree = 4, and Strongly Disagree = 5). Participants then receive a composite score (all items summed together) or subscale score (items within the factor summed together) for each of the 4 factors.
+Responses to each item of the scale receive a score from 0 to 5 (NA = 0, Strongly Disagree = 1, Disagree = 2, Neither Agree Nor Disagree = 3, Agree = 4, and Strongly Disagree = 5). Participants then receive a composite score (all items summed together) or subscale score (items within the factor summed together) for each of the 4 factors. Ranges for the composite and subscores are in the table below.
+
+| |Number of Items|Minimum|Maximum|
+|:-----|:-----:|:-----:|-----:|
+|Composite|22|0|110|
+|Intrest in|7|0|35|
+|Knowledge of|5|0|25|
+|Identification with|6|0|30|
+|Interaction with|4|0|20|
 
 **4.	How was the PRISM Survey administered?**
 
