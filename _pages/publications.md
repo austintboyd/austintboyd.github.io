@@ -14,6 +14,8 @@ date: March 6, 2022
 
 **Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(under review). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE*.
 
+**Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://elps.utk.edu/2023/12/15/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
+
 **Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(2022). Development and Validation of the Parasocial Relationship in Social Media Survey. *The Journal of Social Media in Society, 11*(2), 192-208. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
 
 Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Research in Higher Education.* Available online: <https://link.springer.com/article/10.1007/s11162-022-09682-y>
