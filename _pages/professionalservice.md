@@ -37,15 +37,15 @@ Committee Membership as President
 
 *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
-**Orange Table Talk Podcast Panel Member** (April 2021)
-
-*Served as a panel member for the University of Tennessee’s Orange Table Talk podcast on the graduate student experience*
-
 ### EPC Department Student Representative (August 2019 - May 2021)
 
 *Served as a representative for the Evaluation, Statistics, and Methodology program in Educational Psychology and Counseling student representative meetings*
 
+### Orange Table Talk Podcast Panel Member (April 2021)
+
+*Served as a panel member for the University of Tennessee’s Orange Table Talk podcast on the graduate student experience*
+
 ## Scholarly Service
 ### Conference Submission Reviewer (March 2020)
 
-   *Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
+*Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
