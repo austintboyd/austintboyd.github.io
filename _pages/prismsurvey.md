@@ -29,10 +29,10 @@ Responses to each item of the scale receive a score from 0 to 5 (NA = 0, Strongl
 | |**Number of Items**|**Minimum Score**|**Maximum Score**|
 |:-----|:-----:|:-----:|-----:|
 |**Composite**|**22**|**0**|**110**|
-|Intrest in|7|0|35|
-|Knowledge of|5|0|25|
-|Identification with|6|0|30|
-|Interaction with|4|0|20|
+|*Interest in*|7|0|35|
+|*Knowledge of*|5|0|25|
+|*Identification with*|6|0|30|
+|*Interaction with*|4|0|20|
 
 **4.	How was the PRISM Survey administered?**
 
