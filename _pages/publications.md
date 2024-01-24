@@ -10,7 +10,7 @@ classes: wide
 date: March 6, 2022
 ---
 
-## Peer Reviewed Articles
+## Peer Reviewed Publications
 
 **Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M.(under review). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE*.
 
@@ -24,7 +24,7 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 **Boyd, A. T.**, Schmidt, K. M., & Bergeman, C. S. (2020). You know what they say about when you assume: Testing the robustness of invariant comparisons. *Journal of Applied Measurement, 21*(2), 190-209.
 
-## Non-Peer Reviewed Articles
+## Non-Peer Reviewed Publications
 
 Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 3. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
 
