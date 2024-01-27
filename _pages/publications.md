@@ -12,7 +12,7 @@ date: March 6, 2022
 
 ## Peer Reviewed Publications
 
-**Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M. (under review). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE*.
+**Boyd, A. T.**, Rocconi, L. M., & Morrow, J. A. (under review). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE*.
 
 **Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://elps.utk.edu/2023/12/15/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
 
