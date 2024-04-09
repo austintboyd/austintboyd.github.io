@@ -22,7 +22,7 @@ Boyd, A. T., Rocconi, L. M., & Morrow, J. A. (2024). Construct Validation and Me
 
 **2.	Where can I get a copy of the PRISM survey?**
 
-The PRISIM survey is published in <a href="https://www.thejsms.org/index.php/JSMS/article/view/1085" rel="nofollow">The Journal of Social Media in Society</a> which includes all of the items and the scale for the survey, and additional information on the validity of the survey was also published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300356" rel="nofollow">PLoS ONE</a>, both of which are open source (free to view and use). Additionally, you can download a copy of the survey by clicking <a href="/assets/docs/Survey Shareable.docx" rel="nofollow">HERE</a>.
+The PRISIM survey is published in <a href="https://www.thejsms.org/index.php/JSMS/article/view/1085" rel="nofollow">The Journal of Social Media in Society</a>, which includes all of the items and the scale for the survey, and additional information on the validity of the survey was also published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300356" rel="nofollow">PLoS ONE</a>, both of which are open source (free to view and use). Additionally, you can download a copy of the survey by clicking <a href="/assets/docs/Survey Shareable.docx" rel="nofollow">HERE</a>.
 
 **3.	How is the PRISIM survey scored?**
 
