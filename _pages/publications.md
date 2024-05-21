@@ -12,6 +12,8 @@ date: March 6, 2022
 
 ## Peer Reviewed Publications
 
+**Boyd, A. T.** (2024). How Do I Critically Consume Quantitative Research?. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/how-do-i-critically-consume-quantitative-research/>
+
 **Boyd, A. T.**, Rocconi, L. M., & Morrow, J. A. (2024). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE, 19*(3). Available online:
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300356>
 
