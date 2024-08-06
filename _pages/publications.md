@@ -12,12 +12,14 @@ date: March 6, 2022
 
 ## Peer Reviewed Publications
 
+**Boyd, A. T.** (2024). The Conventional and Unconventional Places I’ve Found Research Ideas. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/the-conventional-and-unconventional-places-ive-found-research-ideas/>
+
 **Boyd, A. T.** (2024). How Do I Critically Consume Quantitative Research?. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/how-do-i-critically-consume-quantitative-research/>
 
 **Boyd, A. T.**, Rocconi, L. M., & Morrow, J. A. (2024). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE, 19*(3). Available online:
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300356>
 
-**Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://elps.utk.edu/2023/12/15/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
+**Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
 
 **Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M. (2022). Development and Validation of the Parasocial Relationship in Social Media Survey. *The Journal of Social Media in Society, 11*(2), 192-208. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
 
