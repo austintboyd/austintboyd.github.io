@@ -10,9 +10,9 @@ classes: wide
 date: March 6, 2022
 ---
 
-## Peer Reviewed Publications
+# Peer Reviewed Publications
 
-# Peer Reviewed Articles
+## Peer Reviewed Articles
 
 **Boyd, A. T.**, Rocconi, L. M., & Morrow, J. A. (2024). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE, 19*(3). Available online:
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300356>
@@ -25,7 +25,7 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 **Boyd, A. T.**, Schmidt, K. M., & Bergeman, C. S. (2020). You know what they say about when you assume: Testing the robustness of invariant comparisons. *Journal of Applied Measurement, 21*(2), 190-209.
 
-# Peer Reviewed Blog Posts
+## Peer Reviewed Blog Posts
 
 **Boyd, A. T.** (2024). The Parasocial Relationships in Social Media Survey: What is it and why did I create it?. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/the-parasocial-relationships-in-social-media-survey-what-is-it-and-why-did-i-create-it/>
 
@@ -35,7 +35,7 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 **Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
 
-## Non-Peer Reviewed Publications
+# Non-Peer Reviewed Publications
 
 Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 3. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
 
@@ -51,7 +51,7 @@ Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent
 
 Rocconi, L. & **Boyd, A. T.** (2020). Examining the Relationship between Law School Rank and Student Engagement. *AccessLex Resource Collections.* Available online: <https://arc.accesslex.org/grantee/67/>
 
-## Evaluation and Technical Reports
+# Evaluation and Technical Reports
 
 **Boyd, A. T.**, Christen, N., Jones, N., Schmidt, A., & York, M. (2021) Distance Education Needs Assessment Report. For the Evaluation, Statistics, and Methodology faculty, University of Tennessee Educational Psychology and Counseling Department. (no Project #, 2 tables, 2 figures; 6 references; 16 pages).
 
