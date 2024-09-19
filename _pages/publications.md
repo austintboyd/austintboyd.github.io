@@ -12,14 +12,10 @@ date: March 6, 2022
 
 ## Peer Reviewed Publications
 
-**Boyd, A. T.** (2024). The Conventional and Unconventional Places I’ve Found Research Ideas. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/the-conventional-and-unconventional-places-ive-found-research-ideas/>
-
-**Boyd, A. T.** (2024). How Do I Critically Consume Quantitative Research?. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/how-do-i-critically-consume-quantitative-research/>
+# Peer Reviewed Articles
 
 **Boyd, A. T.**, Rocconi, L. M., & Morrow, J. A. (2024). Construct Validation and Measurement Invariance of the Parasocial Relationships in Social Media Survey. *PLoS ONE, 19*(3). Available online:
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300356>
-
-**Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
 
 **Boyd, A. T.**, Morrow, J. A., & Rocconi, L. M. (2022). Development and Validation of the Parasocial Relationship in Social Media Survey. *The Journal of Social Media in Society, 11*(2), 192-208. Available online: <https://www.thejsms.org/index.php/JSMS/article/view/1085>
 
@@ -28,6 +24,16 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 **Boyd, A. T.**, & Rocconi, L. M. (2021). Formatting data for one and two mode undirected social network analysis. *Practical Assessment, Research & Evaluation, 26*(24). Available online: <https://scholarworks.umass.edu/pare/vol26/iss1/24/>
 
 **Boyd, A. T.**, Schmidt, K. M., & Bergeman, C. S. (2020). You know what they say about when you assume: Testing the robustness of invariant comparisons. *Journal of Applied Measurement, 21*(2), 190-209.
+
+# Peer Reviewed Blog Posts
+
+**Boyd, A. T.** (2024). The Parasocial Relationships in Social Media Survey: What is it and why did I create it?. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/the-parasocial-relationships-in-social-media-survey-what-is-it-and-why-did-i-create-it/>
+
+**Boyd, A. T.** (2024). The Conventional and Unconventional Places I’ve Found Research Ideas. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/the-conventional-and-unconventional-places-ive-found-research-ideas/>
+
+**Boyd, A. T.** (2024). How Do I Critically Consume Quantitative Research?. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/how-do-i-critically-consume-quantitative-research/>
+
+**Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
 
 ## Non-Peer Reviewed Publications
 
