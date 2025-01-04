@@ -21,7 +21,7 @@ date: March 6, 2022
 
 Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Research in Higher Education.* Available online: <https://link.springer.com/article/10.1007/s11162-022-09682-y>
 
-**Boyd, A. T.**, & Rocconi, L. M. (2021). Formatting data for one and two mode undirected social network analysis. *Practical Assessment, Research & Evaluation, 26*(24). Available online: <https://scholarworks.umass.edu/pare/vol26/iss1/24/>
+**Boyd, A. T.**, & Rocconi, L. M. (2021). Formatting data for one and two mode undirected social network analysis. *Practical Assessment, Research & Evaluation, 26*(24). Available online: <https://openpublishing.library.umass.edu/pare/article/id/1562/>
 
 **Boyd, A. T.**, Schmidt, K. M., & Bergeman, C. S. (2020). You know what they say about when you assume: Testing the robustness of invariant comparisons. *Journal of Applied Measurement, 21*(2), 190-209.
 
