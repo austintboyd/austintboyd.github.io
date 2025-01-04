@@ -76,7 +76,7 @@ date: March 6, 2022
 -	Performed data analysis and visualization on survey results of several county programs including the gifted education, strings program, annual Equity and Excellence in Education (EEE) conference, Title I school’s parent evaluations, and the newly implemented Professional Learning Community (PLC) Survey
 	-	Fulle time seasonally (40 hours per week)
 
-## Statistics Consultant (May 2017 - August 20117) 
+## Statistics Consultant (May 2017 - August 2018) 
 *Self Employed* \| Woodbridge, Virginia
 -	Provided statistical consultations for doctoral candidates, including cleaning and analyzing survey results, statistical testing, data visualizations, and a written summary of the findings
     -	Par time (Approximately 3 hours per week)
