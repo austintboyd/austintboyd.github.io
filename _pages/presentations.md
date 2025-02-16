@@ -12,8 +12,6 @@ date: March 6, 2022
 ---
 
 ## Professional Presentations
-**Boyd, A. T.** (2022, August). Assessing Robustness of Invariant Comparisons in Binary and Polytomous Rasch Models. Symposium presentation at the American Psychological Association (APA) Annual Convention 2022, August 4-6, Minneapolis, Minnesota. 
-
 **Boyd, A. T.** (2022, August) Assessing Robustness of Invariant Comparisons in Binary and Polytomous Rasch Models. Live symposium presentation at the 2022 American Psychological Association Conference, August 4-6, Minneapolis, MN.
 
 Narvaiz, S. & **Boyd, A. T.** (2021, October) Welcoming New Graduate Students During COVID: Assessing Virtual Orientations. Live presentation at the 2021 Assessment Institute Virtual Conference, October 24-27, Online.
