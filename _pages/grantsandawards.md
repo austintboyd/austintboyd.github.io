@@ -19,6 +19,7 @@ date: March 6, 2022
 
 ## Awards
 
+* **2025 Nettle Award for Outstanding Research** from the University of Tennessee Educational Leadership and Policy Studies ($500)
 * **2023 Helen B. Watson Faculty/Student Award for Outstanding Doctoral Dissertation** from the University of Tennessee College of Education, Health, and Human Sciences ($750)
 * **2020 Graduate Student Leadership & Service Excellence Award** from the University of Tennessee Educational Psychology and Counseling Department ($500)
 * **First Place** in the 2019 A-mu-sing Competition held by the Consortium for the Advancement of Undergraduate Statistics Education ($100)
