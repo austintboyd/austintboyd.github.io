@@ -28,7 +28,7 @@ date: March 6, 2022
 ## Founder and Statistics and Evaluation Consultant (September 2020 - September 2021) 
 *Self Employed* \| Remote
 -	Founded a statistics and evaluation consulting LLC (Boyd and Associates International, LLC).
--	Secured a 12 month contract with Motorola Solutions, LLC, assisting with data analysis and visualization of their federal government contracts
+-	Secured a 12 month contract with Motorola Solutions, Inc, assisting with data analysis and visualization of their federal government contracts
     -	Part time (Approximately 10 hours per week)
 
 ## Evaluation and Statistics Intern (January 2020 - August 2020) 
