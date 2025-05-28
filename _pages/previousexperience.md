@@ -25,7 +25,7 @@ date: March 6, 2022
 -	Co-authored non-peer reviewed studies on the Independent Reading Level Assessment (IRLA), a formative reading assessment for K-12 students used nationwide, that established its validity and linked it with summative state test scores.
     -	Full time (40 hours per week)
 
-## Founder and Statistics and Evaluation Consultant (September 2020 - July 2021) 
+## Founder and Statistics and Evaluation Consultant (September 2020 - September 2021) 
 *Self Employed* \| Remote
 -	Founded a statistics and evaluation consulting LLC (Boyd and Associates International, LLC).
 -	Secured a 10 month contract with Motorola Solutions, LLC, assisting with data analysis and visualization of their federal government contracts
