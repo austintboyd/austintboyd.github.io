@@ -49,3 +49,17 @@ Committee Membership as President
 ### Conference Submission Reviewer (March 2020)
 
 *Served as a conference submission reviewer for the Association for Assessment of Learning in Higher Education 2020 conference*
+
+### Journal Article Reviewer
+
+*Serve as an expert reviewer for the journal of Studies in Communication Sciences (SComS)*
+*Serve as an expert reviewer for the International Journal of Adolescence and Youth*
+
+## Community Service
+### Relay For Life (August 2007 - August 2016)
+
+*Partcipated in fundraising and annual 24-hour relay for life events as a member of various teams*
+
+### Healthy Living & Fitness Program (August 2012 - June 2014)
+
+*Designed and implemented a program on healthy habits and fitness for students in grade 5 at a public school in Prince William County Virginia*
