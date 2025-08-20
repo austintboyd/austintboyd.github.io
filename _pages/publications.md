@@ -35,9 +35,23 @@ Rocconi, L. & **Boyd, A. T.** (2022). Measuring Quality in Legal Education: Exam
 
 **Boyd, A. T.** (2023). Learning to Learn New Research Methods: How Watching YouTube Helped Me Complete My First Client Facing Project. *MAD (Meaningful, Action-Driven) with Methods and Measures*. <https://cehhs.utk.edu/elps/learning-to-learn-new-research-methods-how-watching-youtube-helped-me-complete-my-first-client-facing-project/>
 
+## Dissertation
+
+**Boyd, A. T.** (2022). The Parasocial Relationships in Social Media Survey. PhD dissertation, University of Tennessee, 2022. Available online: <https://trace.tennessee.edu/utk_graddiss/7194/>
+
 # Non-Peer Reviewed Publications
 
-Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 3. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
+## White Papers
+
+Famularo, L., **Boyd, A. T.**, & Jackson, A. (2025). Independent Reading Level Assessment (IRLA) Baseline Cohort Proficiency Analysis. Blue Bell, PA: American Reading Company.
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2024). Validity of the Independent Reading Level Assessment (IRLA) Edition 4. Blue Bell, PA: American Reading Company. Available online: <https://arc.red/validity>
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2024). Relationship between the Independent Reading Level Assessment (IRLA) and State ELA Tests: Concurrent and Predictive Validity Evidence. Blue Bell, PA: American Reading Company.
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2024). Relationship between the Independent Reading Level Assessment (IRLA) and Interim ELA Assessments: Concurrent Validity Evidence. Blue Bell, PA: American Reading Company. 
+
+Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 3. Blue Bell, PA: American Reading Company. 
 
 Famularo, L. & **Boyd, A. T.** (2023). Linking the Independent Reading Level Assessment (IRLA) to the Delaware Smarter Balanced Assessment System (SBA) English Language Arts Test. Blue Bell, PA: American Reading Company.
 
@@ -46,8 +60,6 @@ Famularo, L. & **Boyd, A. T.** (2023). Linking the Independent Reading Level Ass
 Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA) Edition 2. Blue Bell, PA: American Reading Company.
 
 Famularo, L., Jackson, A., & **Boyd, A. T.** (2023). Validity of the Independent Reading Level Assessment (IRLA). Blue Bell, PA: American Reading Company.
-
-**Boyd, A. T.** (2022). The Parasocial Relationships in Social Media Survey. PhD dissertation, University of Tennessee, 2022. Available online: <https://trace.tennessee.edu/utk_graddiss/7194/>
 
 Rocconi, L. & **Boyd, A. T.** (2020). Examining the Relationship between Law School Rank and Student Engagement. *AccessLex Resource Collections.* Available online: <https://arc.accesslex.org/grantee/67/>
 
