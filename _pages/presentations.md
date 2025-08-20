@@ -50,6 +50,8 @@ Rocconi, L. & **Boyd, A. T.** (2019, November). Examining the Relationship betwe
 
 **Boyd, A. T.** (2017, December). Conducting a 2x2 Factorial ANOVA in R Studio. Lecture presented in PSYC 3006: Research Methods and Data Analysis II Course, Charlottesville, VA.
 
+Cassata, J. C., Neall, M. T., Carey, N. L., & **Boyd A. T.** (2017, August) Profssional Learning Communities in Prince William County Public Schools. Live presentation at the 2017 Equity and Excellence in Education (EEE) Conference, August 11, Prince William County, Virginia.
+
 **Boyd, A. T.** (2012, September) Knowing Your Leadership Styles. Workshop lead at JROTC Leadership Conference, September 25, Prince William County, VA.
 
 \*Accepted but not presented due to COVID-19 pandemic.
